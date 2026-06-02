@@ -1,0 +1,19 @@
+Upload everything in this folder to the root of your GitHub Pages repository.
+
+Keep this structure exactly:
+index.html
+about/index.html
+packages/index.html
+booking/index.html
+contact/index.html
+faq/index.html
+service-areas/index.html
+css/style.css
+js/script.js
+images/
+favicon files
+site.webmanifest
+robots.txt
+sitemap.xml
+
+Use a local server such as VS Code Live Server for testing. Double-clicking files can behave differently from a real website.
